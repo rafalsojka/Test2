@@ -1,20 +1,9 @@
-Dear Automation Testers,
-
-As part of an initiative led by our QA Forum group, we have been asked by leadership to compile a comprehensive list of essential and commonly used plugins that support our automation efforts across development environments.
-
-The objective is to identify critical and recommended plugins for tools such as IntelliJ IDEA, PyCharm, and Visual Studio Code. This consolidated list will help streamline our setup process and ensure consistency across teams.
-
-We kindly ask you to review the current list available on the SharePoint page and contribute by:
-
-- Adding any plugins you regularly use in your automation work
-- Highlighting any missing but valuable plugins
-- Providing brief notes on their purpose or benefits, if applicable
-
-Your input is highly valuable and will help us build a robust and practical resource for the entire QA community.
-
-If you encounter any issues accessing the SharePoint page or have additional questions, please do not hesitate to reach out.
-
-Thank you in advance for your collaboration and support.
-
-Kind regards,
-[Your Name / QA Forum Team]
+Together with Ola, we gathered information about plugins for QAs from last year and from what we collected this week.
+We reviewed 39 plugins
+19 plugins were rejected (rejection criteria: lack of wider usability for testers, 3rd-party vendors, no active updates, small number of downloads, themes)
+20 plugins were selected
+6 out of these 20 plugins are already approved; for them we need access to newer versions. These are: Cucumber for Java, Gherkin, GitHub Copilot – Your AI Pair Programmer, Lombok, SonarQube for IDE, Test Automation
+14 out of these 20 are plugins that I do not have access to, but which would be very useful for testers, including:
+3 are critical plugins: Python, Python Community Edition, and Scala. They provide support for these programming languages for testers in IntelliJ
+11 are needed, but not critical (still very useful)
+The attachment contains the final version with only the 20 plugins that we ultimately selected
