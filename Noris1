@@ -1,9 +1,1 @@
-Together with Ola, we gathered information about plugins for QAs from last year and from what we collected this week.
-We reviewed 39 plugins
-19 plugins were rejected (rejection criteria: lack of wider usability for testers, 3rd-party vendors, no active updates, small number of downloads, themes)
-20 plugins were selected
-6 out of these 20 plugins are already approved; for them we need access to newer versions. These are: Cucumber for Java, Gherkin, GitHub Copilot – Your AI Pair Programmer, Lombok, SonarQube for IDE, Test Automation
-14 out of these 20 are plugins that I do not have access to, but which would be very useful for testers, including:
-3 are critical plugins: Python, Python Community Edition, and Scala. They provide support for these programming languages for testers in IntelliJ
-11 are needed, but not critical (still very useful)
-The attachment contains the final version with only the 20 plugins that we ultimately selected
+
