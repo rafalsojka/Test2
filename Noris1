@@ -1,4 +1,35 @@
-Here’s one strong, high-impact question per category—focused, practical, and suitable for a PoC evaluation:
+Here are clean, slide-ready bullet points based on the text:
+
+2025: GitHub Copilot rolled out to 50 automation testers
+
+March/April 2026: Approval to extend rollout to a second group (incl. consultants)
+
+Currently: 100 testers have Copilot licenses
+
+Early April: Testers completed training on Copilot usage
+
+Training included attestation of rules of engagement:
+
+Test data only
+
+Test environments only
+
+Read/write access limited to test Bitbucket repositories
+
+
+Test environments configured for Copilot usage
+
+~20 testers still waiting for latest IntelliJ plugin version and onboarding
+
+Grafana dashboard developed to:
+
+Monitor Copilot usage
+
+Proactively manage license allocation
+
+
+
+If you want, I can tighten this further into a more visual/impact-focused executive slide.Here’s one strong, high-impact question per category—focused, practical, and suitable for a PoC evaluation:
 
 
 ---
