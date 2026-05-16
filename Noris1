@@ -1,1 +1,13 @@
+Hi Kasia,
 
+From my perspective, the proposed timeline is not feasible given the current scope and our team’s capacity.
+
+For the development of the performance test scripts alone, we would require a minimum of two weeks, assuming the performance test environment is already fully configured and stable. Your request was submitted yesterday and includes 13 different scenarios that need to be implemented. This is significantly above the typical scope we usually receive from other teams, which is generally around five scenarios.
+
+In addition, our team is currently engaged in eight other performance testing projects for different development teams, which further impacts our available capacity.
+
+Please also take into account that we operate as a shared service center, and in order to execute performance testing effectively, we need to receive all required scenarios approximately 2–3 weeks before the planned test execution. As a general practice, we ask product owners or development leads to involve us at least 3–4 weeks prior to baseline performance testing.
+
+Given the above, my proposal would be to start working on the scripts next week. Based on the current workload and scope, we would realistically be ready to execute the baseline tests no earlier than the end of the week of the 25th.
+
+Please let me know if you would like to discuss this further — I would be happy to arrange a call if needed.
