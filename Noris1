@@ -1,191 +1,31 @@
----Hello Everyone,
+Hi [Test Manager Name],
 
-Over the past months, the QA Forum has been a place for us to share knowledge, discuss testing practices, learn about new technologies, and connect with fellow QA professionals across the organization.
+I understand that your team is currently evaluating Grafana k6 as a potential performance testing solution. I would like to share that the IT Shared Service Performance Testing Team is also interested in exploring this tool and would like to participate in its evaluation.
 
-As we plan future sessions and activities, we'd like to better understand your interests, preferences, and expectations. To help us improve the forum and make it as valuable as possible for everyone, we've prepared a short survey.
+From our initial review, Grafana k6 appears to be a promising modern performance testing framework, particularly due to its native integration with the Grafana ecosystem, which is already one of the primary platforms used for reporting and visualization of QM metrics across our organization.
 
-The survey covers topics such as:
+We would therefore like to include the open-source version of Grafana k6 in our performance testing toolkit and conduct a Proof of Concept (PoC) to assess its capabilities, scalability, maintainability, and suitability for our performance testing needs.
 
-- Preferred session topics and formats
-- Areas of interest, including AI-related subjects
-- Session frequency and duration
-- Opportunities for community members to present and share knowledge
-- Suggestions for improving participation and engagement
+Some of the key advantages we have identified compared to NeoLoad are:
 
-Your feedback is extremely important and will directly influence how we organize future QA Forum sessions.
+* **Native Grafana integration** for dashboards, monitoring, and reporting.
+* **Open-source availability**, reducing licensing dependencies and enabling broader adoption.
+* **JavaScript-based scripting**, allowing testers and developers to leverage a widely adopted programming language.
+* **Infrastructure-as-Code and CI/CD friendliness**, making it easier to integrate performance tests into automated delivery pipelines.
+* **Lightweight architecture**, requiring fewer resources to execute distributed performance tests.
+* **Developer-oriented approach**, encouraging earlier performance testing within the development lifecycle.
+* **Strong cloud and container support**, including seamless execution within Docker and Kubernetes environments.
+* **Version control compatibility**, as test scripts can be managed directly in Git repositories alongside application code.
+* **Extensive ecosystem and community support**, benefiting from active development and contributions.
+* **Flexible execution options**, ranging from local execution to cloud-based scalability.
 
-Please take a few minutes to complete the survey:
-[Insert Survey Link]
+While NeoLoad remains a mature and capable solution, we believe Grafana k6 offers several modern capabilities that align well with our strategic direction, particularly regarding automation, DevOps integration, and observability.
 
-The survey should take approximately 5–10 minutes to complete.
+We would be interested in discussing potential collaboration opportunities and sharing findings as part of the evaluation process.
 
-Whether you attend regularly, occasionally, or have not yet had a chance to participate, we would greatly appreciate hearing your perspective.
-
-Thank you for helping us build a more engaging, relevant, and valuable QA community.
+Please let me know your thoughts.
 
 Best regards,
 
 [Your Name]
-[QA Forum Organizer / QA Community Team]
-
-Tester Support
-
-What test evidence is required?
-
-Help me prepare for a QA audit
-
-What should I validate before release?
-
-Explain the acceptance criteria for...
-
-What are the mandatory QA checks?
-
-Give me the testing workflow for this process
-
-What risks should I consider here?
-
-Help me understand this defect classification
-
-
-
----
-
-Process Guidance
-
-Which process applies in this situation?
-
-What is the escalation path for this issue?
-
-Show the approval workflow
-
-What are the responsibilities of testers in this process?
-
-When should a deviation be raised?
-
-Explain the root cause analysis process
-
-What is the correct CAPA procedure?
-
-Which template should I use?
-
-
-
----
-
-Training & Learning
-
-Teach me the basics of this QM process
-
-Give me an example of a compliant test report
-
-Explain this standard in simple terms
-
-What are common mistakes testers make?
-
-Quiz me on QM procedures
-
-Show a real example of non-compliance
-
-What should new testers know first?
-
-
-
----
-
-Search & Navigation
-
-Find documents related to...
-
-Show all procedures connected with...
-
-Locate the latest version of...
-
-Which standards mention this topic?
-
-Search for examples of...
-
-Find related test cases or templates
-
-
-
----
-
-Strong Short Prompts for the Preview Panel
-
-If you want prompts similar in style to your current ones, I’d recommend these:
-
-1. Explain this QM process
-
-
-2. Find the relevant standard
-
-
-3. What are the required QA checks?
-
-
-4. Help me prepare for an audit
-
-
-5. Show the testing workflow
-
-
-6. Summarize this procedure
-
-
-7. Find documentation about...
-
-
-8. What should testers verify here?
-
-
-9. Explain defect classification
-
-
-10. Which process applies here?
-
-
-
-
----
-
-My Suggested Final 3 Prompts
-
-If you only want 3 optimized prompts for the preview area, these would probably be the strongest:
-
-Find the relevant QM standard
-
-Explain this process step-by-step
-
-What should testers verify here?
-
-
-These are:
-
-practical,
-
-action-oriented,
-
-easy for testers to understand,
-
-and broad enough to encourage real usage.
-
-
-
----
-
-Bonus: More “AI Assistant Style” Prompts
-
-If you want the agent to feel smarter and more conversational:
-
-Guide me through this QA process
-
-Help me understand this requirement
-
-What’s the correct procedure in this case?
-
-What documentation should I follow?
-
-Help me investigate this quality issue
-
-
-These usually increase engagement because users naturally type follow-up questions afterward.
+IT Shared Service Performance Testing Team
