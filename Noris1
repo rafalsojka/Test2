@@ -1,1 +1,514 @@
-https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports/
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Team Software & Driver Update</title>
+</head>
+
+<body style="margin:0; padding:0; background-color:#f4f7fb; font-family:Arial, Helvetica, sans-serif;">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0"
+       style="background-color:#f4f7fb;">
+  <tr>
+    <td align="center" style="padding:24px 10px;">
+
+      <!-- MAIN CONTAINER -->
+      <table width="720" cellpadding="0" cellspacing="0" border="0"
+             style="width:720px; max-width:720px; background-color:#ffffff;
+                    border:1px solid #dde5ef;">
+
+        <!-- HEADER -->
+        <tr>
+          <td style="padding:26px 30px 22px 30px; border-bottom:1px solid #e5eaf0;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td valign="top">
+                  <div style="font-size:27px; font-weight:bold; color:#12336b;">
+                    Team Software &amp; Driver Update
+                  </div>
+
+                  <div style="font-size:14px; color:#66758c; padding-top:6px;">
+                    Daily QA Tools Digest &nbsp;|&nbsp; {{DATE}} &nbsp; {{TIME}}
+                  </div>
+                </td>
+
+                <td align="right" valign="top"
+                    style="font-size:12px; color:#718096;">
+                  Quality Engineering<br>
+                  Tools &amp; Automation
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+
+        <!-- KPI SUMMARY -->
+        <tr>
+          <td style="padding:20px 30px 10px 30px;">
+
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+
+                <!-- KPI 1 -->
+                <td width="32%" valign="top"
+                    style="border:1px solid #dce5ef;
+                           padding:16px;
+                           background-color:#f8fbff;">
+                  <div style="font-size:12px; color:#66758c;">
+                    AVAILABLE TOOLS
+                  </div>
+                  <div style="font-size:26px; font-weight:bold;
+                              color:#12336b; padding-top:5px;">
+                    18
+                  </div>
+                  <div style="font-size:13px; color:#66758c;">
+                    monitored applications
+                  </div>
+                </td>
+
+                <td width="2%">&nbsp;</td>
+
+                <!-- KPI 2 -->
+                <td width="32%" valign="top"
+                    style="border:1px solid #cce8d6;
+                           padding:16px;
+                           background-color:#f3fbf6;">
+                  <div style="font-size:12px; color:#49745b;">
+                    UPDATED TODAY
+                  </div>
+                  <div style="font-size:26px; font-weight:bold;
+                              color:#18723b; padding-top:5px;">
+                    3
+                  </div>
+                  <div style="font-size:13px; color:#66758c;">
+                    version changes
+                  </div>
+                </td>
+
+                <td width="2%">&nbsp;</td>
+
+                <!-- KPI 3 -->
+                <td width="32%" valign="top"
+                    style="border:1px solid #dce5ef;
+                           padding:16px;
+                           background-color:#f8fbff;">
+                  <div style="font-size:12px; color:#66758c;">
+                    ISSUES
+                  </div>
+                  <div style="font-size:26px; font-weight:bold;
+                              color:#12336b; padding-top:5px;">
+                    0
+                  </div>
+                  <div style="font-size:13px; color:#66758c;">
+                    no blockers
+                  </div>
+                </td>
+
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+
+
+        <!-- UPDATED TODAY -->
+        <tr>
+          <td style="padding:12px 30px 20px 30px;">
+
+            <table width="100%" cellpadding="0" cellspacing="0" border="0"
+                   style="border:1px solid #cce8d6; background-color:#f4fbf6;">
+
+              <tr>
+                <td colspan="3"
+                    style="padding:16px 18px 12px 18px;">
+                  <div style="font-size:18px; font-weight:bold; color:#17482a;">
+                    Today's Changes
+                  </div>
+                  <div style="font-size:13px; color:#5b7262; padding-top:3px;">
+                    3 tools were updated since the previous check.
+                  </div>
+                </td>
+              </tr>
+
+              <!-- Chrome -->
+              <tr>
+                <td width="40%"
+                    style="padding:12px 18px; border-top:1px solid #dceee1;">
+                  <strong style="color:#17355f;">Chrome</strong>
+                </td>
+
+                <td width="35%"
+                    style="padding:12px; border-top:1px solid #dceee1;
+                           font-family:Consolas, Courier New, monospace;
+                           color:#475569;">
+                  152.0.7977.82
+                </td>
+
+                <td width="25%" align="right"
+                    style="padding:12px 18px; border-top:1px solid #dceee1;">
+                  <span style="background-color:#d9f3e1;
+                               color:#176b35;
+                               font-size:12px;
+                               font-weight:bold;
+                               padding:5px 10px;">
+                    UPDATED
+                  </span>
+                </td>
+              </tr>
+
+              <!-- Edge -->
+              <tr>
+                <td style="padding:12px 18px; border-top:1px solid #dceee1;">
+                  <strong style="color:#17355f;">Edge</strong>
+                </td>
+
+                <td style="padding:12px; border-top:1px solid #dceee1;
+                           font-family:Consolas, Courier New, monospace;
+                           color:#475569;">
+                  152.0.4191.66
+                </td>
+
+                <td align="right"
+                    style="padding:12px 18px; border-top:1px solid #dceee1;">
+                  <span style="background-color:#d9f3e1;
+                               color:#176b35;
+                               font-size:12px;
+                               font-weight:bold;
+                               padding:5px 10px;">
+                    UPDATED
+                  </span>
+                </td>
+              </tr>
+
+              <!-- Selenium Java -->
+              <tr>
+                <td style="padding:12px 18px; border-top:1px solid #dceee1;">
+                  <strong style="color:#17355f;">Selenium Java</strong>
+                </td>
+
+                <td style="padding:12px; border-top:1px solid #dceee1;
+                           font-family:Consolas, Courier New, monospace;
+                           color:#475569;">
+                  4.38
+                </td>
+
+                <td align="right"
+                    style="padding:12px 18px; border-top:1px solid #dceee1;">
+                  <span style="background-color:#d9f3e1;
+                               color:#176b35;
+                               font-size:12px;
+                               font-weight:bold;
+                               padding:5px 10px;">
+                    UPDATED
+                  </span>
+                </td>
+              </tr>
+
+            </table>
+
+          </td>
+        </tr>
+
+
+        <!-- INVENTORY TITLE -->
+        <tr>
+          <td style="padding:8px 30px 10px 30px;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td style="font-size:19px; font-weight:bold; color:#17355f;">
+                  Current Software Inventory
+                </td>
+                <td align="right"
+                    style="font-size:12px; color:#718096;">
+                  Last checked: {{TIME}}
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+
+        <!-- BROWSER DRIVERS -->
+        <tr>
+          <td style="padding:0 30px 14px 30px;">
+
+            <table width="100%" cellpadding="0" cellspacing="0" border="0"
+                   style="border:1px solid #dbe3ec;">
+
+              <tr>
+                <td colspan="3"
+                    style="background-color:#eaf2fb;
+                           color:#174778;
+                           font-size:14px;
+                           font-weight:bold;
+                           padding:10px 14px;">
+                  Browser Drivers
+                </td>
+              </tr>
+
+              <tr style="background-color:#f8fafc;">
+                <td width="27%"
+                    style="padding:8px 12px; font-size:11px;
+                           font-weight:bold; color:#64748b;">
+                  SOFTWARE
+                </td>
+
+                <td width="50%"
+                    style="padding:8px 12px; font-size:11px;
+                           font-weight:bold; color:#64748b;">
+                  PACKAGE / COMPONENT
+                </td>
+
+                <td width="23%"
+                    style="padding:8px 12px; font-size:11px;
+                           font-weight:bold; color:#64748b;">
+                  VERSION
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;">
+                  <strong>Chrome</strong>
+                </td>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;
+                           font-size:12px; color:#52647a;">
+                  selenium-chrome-driver-server-executable
+                </td>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;
+                           font-family:Consolas, Courier New, monospace;">
+                  152.0.7977.82
+                </td>
+              </tr>
+
+              <tr style="background-color:#fafbfd;">
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;">
+                  <strong>Edge</strong>
+                </td>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;
+                           font-size:12px; color:#52647a;">
+                  selenium-edge-driver-server-executable
+                </td>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;
+                           font-family:Consolas, Courier New, monospace;">
+                  152.0.4191.66
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;">
+                  <strong>Firefox</strong>
+                </td>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;
+                           font-size:12px; color:#52647a;">
+                  selenium-gecko-driver-server-executable
+                </td>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;
+                           font-family:Consolas, Courier New, monospace;">
+                  0.36.0
+                </td>
+              </tr>
+
+            </table>
+
+          </td>
+        </tr>
+
+
+        <!-- PLAYWRIGHT -->
+        <tr>
+          <td style="padding:0 30px 14px 30px;">
+
+            <table width="100%" cellpadding="0" cellspacing="0" border="0"
+                   style="border:1px solid #dbe3ec;">
+
+              <tr>
+                <td colspan="2"
+                    style="background-color:#eaf2fb;
+                           color:#174778;
+                           font-size:14px;
+                           font-weight:bold;
+                           padding:10px 14px;">
+                  Playwright Components
+                </td>
+              </tr>
+
+              <tr style="background-color:#f8fafc;">
+                <td width="70%"
+                    style="padding:8px 12px; font-size:11px;
+                           font-weight:bold; color:#64748b;">
+                  SOFTWARE / COMPONENT
+                </td>
+                <td width="30%"
+                    style="padding:8px 12px; font-size:11px;
+                           font-weight:bold; color:#64748b;">
+                  VERSION
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;">
+                  Chrome Playwright
+                </td>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;">
+                  1194
+                </td>
+              </tr>
+
+              <tr style="background-color:#fafbfd;">
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;">
+                  Webkit
+                </td>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;">
+                  2215
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;">
+                  Ffmpeg
+                </td>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;">
+                  1011
+                </td>
+              </tr>
+
+              <tr style="background-color:#fafbfd;">
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;">
+                  Firefox Playwright
+                </td>
+                <td style="padding:9px 12px; border-top:1px solid #e5eaf0;">
+                  1495
+                </td>
+              </tr>
+
+            </table>
+
+          </td>
+        </tr>
+
+
+        <!-- TESTING TOOLS -->
+        <tr>
+          <td style="padding:0 30px 24px 30px;">
+
+            <table width="100%" cellpadding="0" cellspacing="0" border="0"
+                   style="border:1px solid #dbe3ec;">
+
+              <tr>
+                <td colspan="2"
+                    style="background-color:#eaf2fb;
+                           color:#174778;
+                           font-size:14px;
+                           font-weight:bold;
+                           padding:10px 14px;">
+                  Testing, Automation &amp; Monitoring
+                </td>
+              </tr>
+
+              <tr style="background-color:#f8fafc;">
+                <td width="70%"
+                    style="padding:8px 12px; font-size:11px;
+                           font-weight:bold; color:#64748b;">
+                  SOFTWARE
+                </td>
+                <td width="30%"
+                    style="padding:8px 12px; font-size:11px;
+                           font-weight:bold; color:#64748b;">
+                  VERSION
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">Selenium Java</td>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">4.38</td>
+              </tr>
+
+              <tr style="background-color:#fafbfd;">
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">Selenium Server</td>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">4.33</td>
+              </tr>
+
+              <tr>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">Neoload</td>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">2025.1.1</td>
+              </tr>
+
+              <tr style="background-color:#fafbfd;">
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">TestComplete</td>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">15.78</td>
+              </tr>
+
+              <tr>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">wc3270</td>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">4.5ga5</td>
+              </tr>
+
+              <tr style="background-color:#fafbfd;">
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">Allure</td>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">2.35.1</td>
+              </tr>
+
+              <tr>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">Playwright</td>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">1.56.0</td>
+              </tr>
+
+              <tr style="background-color:#fafbfd;">
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">qTest</td>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">2025.2</td>
+              </tr>
+
+              <tr>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">qTest Explorer</td>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">7.2.8.6</td>
+              </tr>
+
+              <tr style="background-color:#fafbfd;">
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">DbFit</td>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">4.0.0</td>
+              </tr>
+
+              <tr>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">Glowroot</td>
+                <td style="padding:8px 12px; border-top:1px solid #e5eaf0;">13.6</td>
+              </tr>
+
+            </table>
+
+          </td>
+        </tr>
+
+
+        <!-- FOOTER -->
+        <tr>
+          <td style="padding:16px 30px;
+                     background-color:#f7f9fc;
+                     border-top:1px solid #e3e9f0;
+                     font-size:11px;
+                     color:#718096;">
+
+            <table width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td>
+                  Quality Engineering Team
+                </td>
+
+                <td align="right">
+                  Automated Software Status Report
+                </td>
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+
+      </table>
+      <!-- END MAIN CONTAINER -->
+
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports/
