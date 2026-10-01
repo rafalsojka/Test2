@@ -1,0 +1,18 @@
+Quarter
+Theme
+Proposed roadmap items
+Q4 2026
+Foundation & Standardization
+Complete SonarQube Project Onboarding and establish a standardized onboarding approach • Integrate Apollo data into the QM Metric Tool • Introduce Role-Based Grafana Dashboards tailored to engineering, QA, and management audiences
+Q1 2027
+DevSecOps Integration & Framework Readiness
+Integrate DevSecOps Metrics and Dashboards to provide broader engineering quality visibility • Extend Metric Tool Listeners to support the next generation of the testing framework • Standardize data ingestion interfaces to simplify future integrations
+Q2 2027
+Advanced Quality Insights & AI Integration
+Integrate the QA Agent following successful PoC validation • Enhance the GitHub Copilot Dashboard and align it with the latest available APIs and metrics • Introduce Detailed Test Case Analytics • Introduce Test Execution Analytics covering trends, results, duration, and stability • Introduce Test Infrastructure Insights covering test servers, virtual machines, environments, and resource utilization
+Q3 2027
+Proactive Quality Management
+Introduce Automated Alerts and Threshold Monitoring for key quality metrics • Launch a Project Quality Health Indicator providing an aggregated view of project quality • Add Quality Trend and Risk Detection to highlight deteriorating metrics before they become critical
+Q4 2027
+Enterprise Scale & Automation
+Enable Self-Service Project Onboarding with minimal QM team involvement • Introduce Automated Data Quality Monitoring to detect missing, stale, or inconsistent metrics • Standardize Management Reporting across projects and portfolios
