@@ -1,18 +1,18 @@
-Quarter
-Theme
-Proposed roadmap items
-Q4 2026
-Foundation & Standardization
-Complete SonarQube Project Onboarding and establish a standardized onboarding approach • Integrate Apollo data into the QM Metric Tool • Introduce Role-Based Grafana Dashboards tailored to engineering, QA, and management audiences
-Q1 2027
-DevSecOps Integration & Framework Readiness
-Integrate DevSecOps Metrics and Dashboards to provide broader engineering quality visibility • Extend Metric Tool Listeners to support the next generation of the testing framework • Standardize data ingestion interfaces to simplify future integrations
-Q2 2027
-Advanced Quality Insights & AI Integration
-Integrate the QA Agent following successful PoC validation • Enhance the GitHub Copilot Dashboard and align it with the latest available APIs and metrics • Introduce Detailed Test Case Analytics • Introduce Test Execution Analytics covering trends, results, duration, and stability • Introduce Test Infrastructure Insights covering test servers, virtual machines, environments, and resource utilization
-Q3 2027
-Proactive Quality Management
-Introduce Automated Alerts and Threshold Monitoring for key quality metrics • Launch a Project Quality Health Indicator providing an aggregated view of project quality • Add Quality Trend and Risk Detection to highlight deteriorating metrics before they become critical
-Q4 2027
-Enterprise Scale & Automation
-Enable Self-Service Project Onboarding with minimal QM team involvement • Introduce Automated Data Quality Monitoring to detect missing, stale, or inconsistent metrics • Standardize Management Reporting across projects and portfolios
+https://hub.docker.com/layers/neotys/neoload-web-frontend/2026.2.1/images/sha256-e228394cce4b1f3556bdde34836c8837206af09180f9f09b0dba48892d5aa09a
+
+https://hub.docker.com/layers/neotys/neoload-web-backend/2026.2.1/images/sha256-c8d924f010f1b01ade2d7b43e3068b39efb64d04268e6bca12097ebe60f7e9ca
+
+https://hub.docker.com/layers/neotys/neoload-web-backend-utilities/2026.2.1/images/sha256-369b4b08dd29899422dc940317a3526e4220bae21b2d2b6ff3ac996c315a8974
+
+https://hub.docker.com/layers/library/mongo/resolute/images/sha256-b609cdfba3a865331378cc4158bc52522a3bf176d59a7ff2c43fab52f5d9d5cb
+
+https://hub.docker.com/layers/neotys/neoload-loadgenerator/2026.2.1/images/sha256-efe03583c0250e6a177d6f0faed14b1ac79226dea76f87a47d27c51dcc7ba433
+
+https://hub.docker.com/layers/neotys/neoload-loadgenerator/2026.2.1/images/sha256-efe03583c0250e6a177d6f0faed14b1ac79226dea76f87a47d27c51dcc7ba433
+
+https://hub.docker.com/layers/neotys/neoload-controller/jmeter-2026.2.1/images/sha256-b180f7d90e3467864ff982c5c3efdd4abe4547122daa656f49cc53f9304f54ed
+
+https://hub.docker.com/layers/neotys/neoload-loadgenerator/real-browser-2026.2.1/images/sha256-5ed8edcf5bcec6a53c6b86ec4648f5a4e87e6e6f3059213379cc774bc1ab77cd
+
+https://hub.docker.com/layers/neotys/neoload-web-dynamic-infrastructure-agent/2026.2.0/images/sha256-c57fe58cc95aef176cca162686450c6297e10bdabb0d09b4391bb0566483eb8e
+
