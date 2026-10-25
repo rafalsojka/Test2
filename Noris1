@@ -1,11 +1,1 @@
-Hi Chris,
 
-Project archiving does not fully address the Jira cleanup challenges, particularly the removal of unused workflows and configurations. Archived projects still require their underlying configurations to remain in Jira, so archiving mainly limits visibility rather than reducing complexity.
-
-To prepare Jira for future migrations and enable a more comprehensive cleanup, we need an agreed data retention policy. An indefinite retention period significantly limits our options.
-
-For example, with a seven-year retention policy, we could archive older projects, allow an appropriate period for potential data access requests, and eventually proceed with permanent deletion and related configuration cleanup.
-
-Ultimately, a decision on the Jira data retention policy is needed before Jira Support can move forward with permanent cleanup activities. Without this clarity, our options remain limited.
-
-Hope this helps clarify the situation.
