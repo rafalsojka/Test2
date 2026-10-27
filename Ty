@@ -1,4 +1,23 @@
-https://hub.docker.com/layers/neotys/neoload-web-frontend/2026.2.1/images/sha256-e228394cce4b1f3556bdde34836c8837206af09180f9f09b0dba48892d5aa09a
+Hi James,
+
+Regarding the presentation delivered by Orlan and Adrian, the initiative focuses on standardizing GitHub Copilot usage across our test automation engineering teams.
+
+As part of the GitHub Copilot rollout, we identified inconsistencies in how automation engineers were using the tool. To address this, Orlan and Adrian developed a reusable framework and practical playbook that can be shared and adopted across teams.
+
+Key highlights:
+
+- Standardized approach: Established a centralized ".github" framework containing common instructions, reusable prompts, and skills to guide consistent GitHub Copilot usage.
+- Core automation scenarios: Focused on Selenium UI automation, REST Assured API testing, Java coding standards, code refactoring, flaky test stabilization, and failed-test analysis.
+- Practical guidance: Mapped common automation activities to recommended Copilot prompts and skills, including required inputs and validation steps.
+- Improved consistency and quality: Introduced common automation standards and coding practices to improve code quality, maintainability, and alignment across teams.
+- Faster adoption and onboarding: Created a reusable knowledge base that helps engineers leverage GitHub Copilot more effectively and reduces individual experimentation.
+- Scalability: Established a foundation that can be shared across our automation engineering community and progressively extended with additional use cases and best practices.
+
+Overall, the objective is to move from individual, inconsistent usage of GitHub Copilot toward a standardized, scalable approach that improves engineering productivity and automation quality.
+
+Please let me know if you have any further questions.
+
+Kind regards,https://hub.docker.com/layers/neotys/neoload-web-frontend/2026.2.1/images/sha256-e228394cce4b1f3556bdde34836c8837206af09180f9f09b0dba48892d5aa09a
 
 https://hub.docker.com/layers/neotys/neoload-web-backend/2026.2.1/images/sha256-c8d924f010f1b01ade2d7b43e3068b39efb64d04268e6bca12097ebe60f7e9ca
 
