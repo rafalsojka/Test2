@@ -1,12 +1,137 @@
-jdjCześć,
+Meet the QA Forum — Presentation Script
 
-Chciałbym podzielić się informacją o warsztatach wewnętrznych organizowanych przez [Imię kolegi].
+SLIDE 1 — Experience Exchange Forums: Meet the QA Forum
 
-Warsztaty odbędą się w dniach 23 i 26 listopada, po 4 godziny każdego dnia. Obecnie dostępnych jest jeszcze 8 wolnych miejsc.
+Speaker 1 — You (approx. 2:30)
 
-Jeśli ktoś z Was jest zainteresowany udziałem i uzyska zgodę swojego managera, może to być ciekawa okazja do poszerzenia wiedzy i zdobycia nowych umiejętności.
+Good morning, everyone!
 
-W razie zainteresowania zachęcam do bezpośredniego kontaktu z [Imię kolegi].
+Today, we'd like to introduce you to one of the Experience Exchange Forums here at BBH — the Quality Assurance Forum, or simply the QA Forum.
 
-Pozdrawiam,
-[Twoje imię]
+And before we get into the details, there's one thing worth mentioning: the QA Forum is not actually a new initiative.
+
+Our community has been around for approximately six years. Some of you might remember it under its previous name — the Global Test Automation Forum.
+
+In 2025, we decided to rebrand it as the QA Forum. And there was a good reason for that change.
+
+While test automation remains a very important part of what we do, we wanted to create a space for broader conversations about software quality — not just automation, but everything related to quality assurance in software engineering.
+
+Another important thing is that our forum has been global from the very beginning.
+
+Although many of our activities take place in Krakow, this has never been a Krakow-only initiative. From the start, we've been connecting QA engineers and testers working across different BBH offices, teams, and projects.
+
+And that brings me to the main purpose of our community.
+
+We focus on three things: sharing knowledge, developing our skills, and building a stronger QA community across BBH.
+
+Today, we have around 150 members, and the forum is coordinated by a core team of five people.
+
+But of course, the forum is much more than just those five people. It's really about everyone who participates, shares their experience, asks questions, or simply joins to learn something new.
+
+And with that, let's move to our next slide and show you what this looks like in practice.
+
+---
+
+SLIDE 2 — QA Forum: Different Projects. One QA Community.
+
+Speaker 1 — You: Connect & Learn (approx. 2:00)
+
+As you can see on this slide, we've summarized the idea behind the QA Forum in four simple words:
+
+Connect. Learn. Solve. Share.
+
+Let's start with Connect.
+
+In our daily work, we're often focused on our own projects, our own teams, and our own challenges.
+
+But the interesting thing is that someone working on a completely different project may be facing exactly the same problem — or may have already found a solution.
+
+And that's where the QA Forum comes in.
+
+We want to bring people together, create opportunities to meet colleagues from other teams, exchange experiences, and build connections beyond our everyday projects.
+
+And sometimes, those connections happen in a less formal setting — for example, during our QA Coffee Breaks in Krakow, where people can meet, talk, and exchange ideas.
+
+The second area is Learn.
+
+This is really one of our key activities.
+
+Throughout the year, we organize knowledge-sharing sessions led by QA engineers who want to share their experience, demonstrate a tool, or introduce an interesting approach.
+
+So far this year, we've organized close to 11 different presentations and sessions, delivered by more than 20 QA engineers.
+
+And we're not slowing down — we have another six presentations planned for November.
+
+The topics are quite diverse. We talk about test automation frameworks, tools such as TestComplete, NeoLoad, and Jenkins, approaches like BDD, and of course, one of the most popular topics recently — AI in QA.
+
+But we don't limit ourselves to specific tools or technologies. Anything that helps us improve software quality, work more efficiently, or develop our testing skills is a potential topic for the forum.
+
+And importantly, you don't need to be an expert to participate. Sometimes simply listening to how another team approaches a problem can give you a completely new perspective.
+
+Now, we've talked about connecting people and learning from each other. But what happens when we actually face challenges in our projects?
+
+I'll hand over to my colleague, who will take you through our next two areas — Solve and Share.
+
+---
+
+Speaker 2 — Colleague: Solve & Share (approx. 2:30)
+
+Thanks!
+
+So, let's move to the third area, which is Solve.
+
+I think we can all agree that working in quality assurance comes with quite a few challenges.
+
+It could be a technical problem, a question about test automation, choosing the right approach, or simply figuring out how to improve the way we test.
+
+And very often, these challenges are not unique to one project.
+
+The idea behind Solve is quite simple: instead of trying to figure everything out on our own, why not learn from the experience of others?
+
+Through the QA Forum, we want to encourage people to bring their real challenges, ask questions, and discuss possible solutions.
+
+We don't expect every session to provide a perfect answer to every question. Sometimes the biggest value comes from hearing how another team approached a similar situation.
+
+And that's exactly the kind of collaboration we want to promote.
+
+Now, the fourth area is Share.
+
+And this is something we'd really like to encourage everyone to do.
+
+Knowledge sharing doesn't always have to mean preparing a big, technical presentation.
+
+It could be a short demo of a tool you've been using, an interesting solution you've implemented, a useful lesson learned from your project, or even something that didn't work as expected.
+
+All of these experiences can be valuable to others.
+
+And our knowledge-sharing activities don't stop at the QA Forum itself.
+
+We also actively contribute to other initiatives across BBH, such as the Peer Learning Series and the Krakow Spark conference.
+
+This gives us additional opportunities to reach different audiences and share what we're learning within the QA community.
+
+And if you happen to miss one of our sessions, that's not a problem either.
+
+Recordings of our presentations are available on the Show and Share portal, so you can always go back and explore topics that interest you.
+
+---
+
+Speaker 2 — Colleague: Closing (approx. 1:00)
+
+So, to wrap things up, the main message we'd like you to take away today is that the QA Forum is a community created by QA people, for QA people.
+
+Whether you're an experienced tester, you're just beginning your journey in quality assurance, or you're simply curious about the topic — you're more than welcome to join us.
+
+You don't have to be an expert, and you don't have to prepare a presentation.
+
+You can start by attending a session, asking a question, or just getting to know colleagues working in other teams.
+
+And of course, if you have any questions, suggestions for future topics, or perhaps you'd like to share something yourself, feel free to contact our core team at:
+
+qa_forum.core.team@bbh.com
+
+We'd love to hear from you, and we'd be happy to see you at one of our upcoming sessions.
+
+Because at the end of the day, the more we share, the more we learn — and the stronger our QA community becomes.
+
+Thank you!
