@@ -1,3 +1,39 @@
+Hi Team,
+
+I’ve reviewed the available options for Windows desktop application test automation and found some useful information in Microsoft's official documentation.
+
+According to Microsoft, WinAppDriver is no longer under active development, and Microsoft recommends using Appium with the Windows Driver instead.
+
+However, the original Appium Windows Driver has also been deprecated, and the Appium project now identifies Appium WinCore Driver as its official successor.
+
+Currently, we have Appium NovaWindows Driver available in our environment, but not WinCore Driver.
+
+The main differences between these two solutions are:
+
+- Appium NovaWindows Driver is an independently maintained solution that uses a PowerShell-based backend for Windows UI automation.
+- Appium WinCore Driver is officially maintained by the Appium project and uses a .NET-based implementation with Windows UI Automation.
+
+My suggestion would be to proceed with the following approach:
+
+1. Short term: Try using the existing Appium NovaWindows Driver to evaluate its compatibility with our desktop application.
+2. In parallel: We could explore downloading and getting approval to install Appium WinCore Driver, allowing us to evaluate it as an alternative solution.
+
+This would enable us to make progress with the tools already available while assessing a more recently developed, officially maintained option.
+
+Useful references:
+
+- Microsoft documentation: https://learn.microsoft.com/en-us/windows/apps/develop/testing/#ui-test-automation
+- Appium Windows Driver (deprecated): https://github.com/appium/appium-windows-driver
+- Appium WinCore Driver: https://github.com/appium/appium-wincore-driver
+- Appium NovaWindows Driver: https://github.com/AutomateThePlanet/appium-novawindows-driver
+
+What are your thoughts on this approach? Do you have any alternative suggestions or preferences regarding which solution we should pursue?
+
+Best regards
+
+
+
+
 According to Microsoft's official documentation, WinAppDriver is no longer under active development, and Microsoft recommends moving to Appium with the Windows Application Driver plugin.
 
 However, the original Appium Windows Driver has also been deprecated. The Appium project now identifies Appium WinCore Driver as its official replacement.
