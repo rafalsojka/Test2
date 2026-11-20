@@ -1,29 +1,11 @@
-Hi All,
+According to Microsoft's official documentation, WinAppDriver is no longer under active development, and Microsoft recommends moving to Appium with the Windows Application Driver plugin.
 
-Thank you for accepting the meeting invitation.
+However, the original Appium Windows Driver has also been deprecated. The Appium project now identifies Appium WinCore Driver as its official replacement.
 
-Although our regular Test Governance meetings are scheduled to begin in the first week of December, I would like to use the time ahead to better understand the existing testing processes, tools, and reporting practices across the different workstreams.
+For new Windows 11 desktop automation projects, we should evaluate WinCore Driver rather than adopt the legacy WinAppDriver stack.
 
-To help us prepare, I would appreciate it if you could share some information on how testing activities and progress are currently being tracked.
+References:
 
-For BBH workstreams, it would be helpful to understand:
-
-- Which Jira and qTest projects are being used to manage testing activities and defects.
-- How test coverage and traceability between requirements, test cases, and defects are currently maintained.
-- Whether there are any existing dashboards or reports used to monitor testing progress.
-
-For SEI, I would appreciate some insight into:
-
-- How testing activities, execution results, and defects are tracked on your side.
-- What testing reports or dashboards are currently available.
-- Whether it would be possible to arrange access to these reports or share relevant test execution details with our Test Governance team.
-
-The intention is to build on the processes and tools already in place, gain a better understanding of how each workstream operates, and identify how we can provide consolidated visibility across the program.
-
-During our initial meetings in December, I would also welcome the opportunity to walk through the existing artifacts together, primarily to understand the current processes and identify where our governance function can best support the teams.
-
-There is no expectation to prepare any new documentation specifically for this request. Any existing references, links, reports, or examples you could share would be greatly appreciated.
-
-Thank you in advance for your support, and please feel free to reach out if you have any questions.
-
-Best regards
+- Microsoft: https://learn.microsoft.com/en-us/windows/apps/develop/testing/#ui-test-automation
+- Appium deprecation notice: https://github.com/appium/appium-windows-driver
+- WinCore Driver: https://github.com/appium/appium-wincore-driver
